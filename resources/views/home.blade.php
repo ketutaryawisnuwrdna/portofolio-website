@@ -200,7 +200,7 @@
 
             'help': "Available commands:\n  whoami   - Tampilkan informasi singkat saya\n  skills   - Tampilkan stack teknologi\n  projects - Lihat daftar proyek unggulan\n  clear    - Bersihkan layar terminal",
 
-            'whoami': "Nama: Ketut Arya Wisnu Wardana\nStatus: Mahasiswa S1 Informatika di Universitas Teknologi Yogyakarta (UTY).\nFokus: Pengembang Web yang berfokus pada arsitektur MVC dan modern frontend.",
+            'whoami': "Nama: Ketut Arya Wisnu Wardana\nStatus: Sarjana Informatika (2022-2026) di Universitas Teknologi Yogyakarta (UTY).\nIPK: 3.33 \nHobi: Olahraga & Bermain Game \nFokus: Pengembang mobile Web, Desain UI/UX dan modern frontend.",
 
             'skills': "Teknologi yang sering digunakan:\n[+] Laravel Framework\n[+] Next.js & Tailwind CSS\n[+] Firebase (Real-time DB)\n[+] MySQL\n[+] OSINT & Digital Forensics (Eksplorasi)",
 
